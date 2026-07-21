@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\archetypes",
+    "\\content",
+    "\\content\\1-Worklog",
+    "\\content\\1-Worklog\\1.12-Week12",
+    "\\content\\7-Feedback",
+    "\\public",
+    "\\themes",
+    "\\themes\\hugo-theme-learn"
+  ],
+  "SelectedNode": "\\.github\\workflows\\hugo.yml",
+  "PreviewInSolutionExplorer": false
+}

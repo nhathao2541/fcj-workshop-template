@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\.github\\workflows\\hugo.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\hugo.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.1-Week1\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\1-Worklog\\1.1-Week1\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.2-Week2\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\1-Worklog\\1.2-Week2\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.1-Week1\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\1-Worklog\\1.1-Week1\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\7-Feedback\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\7-Feedback\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.6-Week6\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\1-Worklog\\1.6-Week6\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.5-Week5\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\1-Worklog\\1.5-Week5\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.4-Week4\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\1-Worklog\\1.4-Week4\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.3-Week3\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\1-Worklog\\1.3-Week3\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.3-Week3\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\1-Worklog\\1.3-Week3\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.2-Week2\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\1-Worklog\\1.2-Week2\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\archetypes\\default.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:archetypes\\default.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\static\\AWS_Logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:static\\AWS_Logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\static\\css\\theme-workshop.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:static\\css\\theme-workshop.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\static\\css\\theme-mine.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:static\\css\\theme-mine.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\layouts\\partials\\menu-footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\partials\\menu-footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\layouts\\partials\\custom-footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\partials\\custom-footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\layouts\\partials\\logo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:layouts\\partials\\logo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.2-Prerequiste\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\5-Workshop\\5.2-Prerequiste\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.5-Policy\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\5-Workshop\\5.5-Policy\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.5-Policy\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\5-Workshop\\5.5-Policy\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.6-Cleanup\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\5-Workshop\\5.6-Cleanup\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.6-Cleanup\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\5-Workshop\\5.6-Cleanup\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.1-Workshop-overview\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\5-Workshop\\5.1-Workshop-overview\\_index.vi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.1-Workshop-overview\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\5-Workshop\\5.1-Workshop-overview\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 385,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_index.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\_index.md",
+              "RelativeDocumentMoniker": "content\\_index.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\_index.md",
+              "RelativeToolTip": "content\\_index.md",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:25:11.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_index.vi.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\_index.vi.md",
+              "RelativeDocumentMoniker": "content\\_index.vi.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\_index.vi.md",
+              "RelativeToolTip": "content\\_index.vi.md",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:23:19.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_index.vi.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\7-Feedback\\_index.vi.md",
+              "RelativeDocumentMoniker": "content\\7-Feedback\\_index.vi.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\7-Feedback\\_index.vi.md",
+              "RelativeToolTip": "content\\7-Feedback\\_index.vi.md",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:22:59.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_index.vi.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.6-Week6\\_index.vi.md",
+              "RelativeDocumentMoniker": "content\\1-Worklog\\1.6-Week6\\_index.vi.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.6-Week6\\_index.vi.md",
+              "RelativeToolTip": "content\\1-Worklog\\1.6-Week6\\_index.vi.md",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:22:28.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_index.vi.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.5-Week5\\_index.vi.md",
+              "RelativeDocumentMoniker": "content\\1-Worklog\\1.5-Week5\\_index.vi.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.5-Week5\\_index.vi.md",
+              "RelativeToolTip": "content\\1-Worklog\\1.5-Week5\\_index.vi.md",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:22:18.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_index.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.1-Week1\\_index.md",
+              "RelativeDocumentMoniker": "content\\1-Worklog\\1.1-Week1\\_index.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.1-Week1\\_index.md",
+              "RelativeToolTip": "content\\1-Worklog\\1.1-Week1\\_index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:11:35.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_index.vi.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.1-Week1\\_index.vi.md",
+              "RelativeDocumentMoniker": "content\\1-Worklog\\1.1-Week1\\_index.vi.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.1-Week1\\_index.vi.md",
+              "RelativeToolTip": "content\\1-Worklog\\1.1-Week1\\_index.vi.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:11:36.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_index.vi.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.2-Week2\\_index.vi.md",
+              "RelativeDocumentMoniker": "content\\1-Worklog\\1.2-Week2\\_index.vi.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.2-Week2\\_index.vi.md",
+              "RelativeToolTip": "content\\1-Worklog\\1.2-Week2\\_index.vi.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:13:00.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hugo.yml",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\.github\\workflows\\hugo.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\hugo.yml",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\.github\\workflows\\hugo.yml",
+              "RelativeToolTip": ".github\\workflows\\hugo.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-01T04:11:27.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_index.vi.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.4-Week4\\_index.vi.md",
+              "RelativeDocumentMoniker": "content\\1-Worklog\\1.4-Week4\\_index.vi.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.4-Week4\\_index.vi.md",
+              "RelativeToolTip": "content\\1-Worklog\\1.4-Week4\\_index.vi.md",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:21:44.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AWS_Logo.svg",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\static\\AWS_Logo.svg",
+              "RelativeDocumentMoniker": "static\\AWS_Logo.svg",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\static\\AWS_Logo.svg",
+              "RelativeToolTip": "static\\AWS_Logo.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMfSURBVDhPjZTvaxt1HMdf37t87y6JWXLmGjMTG6mbIPHJfgjdaFWoWB/oCoWCqKWrtj6X5YE\u002BEp8L/QcU0YdFEYaCTGTOSR3UueG6B1pltprRadtr0/TussvlfLBd6JKU7QX34Ph83q/vr7uvYH\u002BU6enp41NTU4PpdNrqLEZ4nrcxPz\u002B/ODc39xNh2Ip1NtxFVCqVV0ZHR18tlUqDlmXFhBCdPQDU6/WmaZqfAZcQQnQJTdNMTU5ODo\u002BPj79eLBaHDMPIJxIJ9hMGQYCUMgsIAGVvsVAoZMfGxk7OzMy8WS6Xn0smk3lFuadlP9qjtbszmUxqZGTkeKVSeWtgYOBlwzD6AMIwjFoeiLZwYmJieHZ2dtayrFO\u002B70vHcWg0GrRarXsT9yESKrlcbrBQKDyraZoWLUEaCVyZ5NdtWN6BbR\u002BC\u002B0w4EopEIpFNpVJWPB7HMAwCKfnF1Tm7qnP1imD9AuxeAv8vCL0Oyx7aS1ZVFU3TkJqkqbX4PfA5f7PF4qKC8lWTxOdrKF/\u002BR3DBofUnhLeBHrPtOsLbYZN/gjW\u002B2LjF9Rsupasw8mODQ1cuY36/QOzsMsF5l7AGYdCZ7iFs4HHZX\u002BLa9r9sew3iT0PmA4i/b6DlP0Gufoj6xw\u002BEN4FmZ7qHsEnAerDJjvyNrdwa9ScD1Gck4sRjiJckoriE2LyIMJogutfcJZRI\u002BtWDaMllNh/5lqX8N5zTL3JNX2Dn8C1EsYbQNhDpFuJOOty7m11CQ\u002Bgck09x9KGAormAHf\u002BU72ofccP\u002BGDf2N\u002BTTiP4c4gCgdqZ7CDWhUlT7OKMP8Z7Rxyn1OofqX1N2fuZAYEHpBBw7AnENlO7/u0t455vW6NOP8LzxAqfli7wWH6XfOoP2xLtw8m0YHOoMtekpFEJBqjlS8SGs9Gkezr6DZr6BcnAYHj0MGbMz1KYtDO/Sfhc6gZLHj5XxlKN4PI6vmwSaTth9A3UdSuj7/obruquO41Sjp16vV2u1WnVra6tq23a1VqtVd3d323XHcaqu6676vr8eSaMLNrRt\u002B9zKyoptGEY2Gu1B8Dxv3bbtxUj4P5M0LJYoUlCgAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-06-01T04:15:28.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_index.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.2-Week2\\_index.md",
+              "RelativeDocumentMoniker": "content\\1-Worklog\\1.2-Week2\\_index.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.2-Week2\\_index.md",
+              "RelativeToolTip": "content\\1-Worklog\\1.2-Week2\\_index.md",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:12:53.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "default.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\archetypes\\default.md",
+              "RelativeDocumentMoniker": "archetypes\\default.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\archetypes\\default.md",
+              "RelativeToolTip": "archetypes\\default.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:11:30.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_index.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.3-Week3\\_index.md",
+              "RelativeDocumentMoniker": "content\\1-Worklog\\1.3-Week3\\_index.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.3-Week3\\_index.md",
+              "RelativeToolTip": "content\\1-Worklog\\1.3-Week3\\_index.md",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:13:16.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_index.vi.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.3-Week3\\_index.vi.md",
+              "RelativeDocumentMoniker": "content\\1-Worklog\\1.3-Week3\\_index.vi.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\1-Worklog\\1.3-Week3\\_index.vi.md",
+              "RelativeToolTip": "content\\1-Worklog\\1.3-Week3\\_index.vi.md",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:13:22.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "theme-workshop.css",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\static\\css\\theme-workshop.css",
+              "RelativeDocumentMoniker": "static\\css\\theme-workshop.css",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\static\\css\\theme-workshop.css",
+              "RelativeToolTip": "static\\css\\theme-workshop.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-01T04:15:26.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "theme-mine.css",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\static\\css\\theme-mine.css",
+              "RelativeDocumentMoniker": "static\\css\\theme-mine.css",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\static\\css\\theme-mine.css",
+              "RelativeToolTip": "static\\css\\theme-mine.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-01T04:15:25.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "menu-footer.html",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\layouts\\partials\\menu-footer.html",
+              "RelativeDocumentMoniker": "layouts\\partials\\menu-footer.html",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\layouts\\partials\\menu-footer.html",
+              "RelativeToolTip": "layouts\\partials\\menu-footer.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-01T04:15:19.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "custom-footer.html",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\layouts\\partials\\custom-footer.html",
+              "RelativeDocumentMoniker": "layouts\\partials\\custom-footer.html",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\layouts\\partials\\custom-footer.html",
+              "RelativeToolTip": "layouts\\partials\\custom-footer.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-01T04:15:15.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "logo.html",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\layouts\\partials\\logo.html",
+              "RelativeDocumentMoniker": "layouts\\partials\\logo.html",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\layouts\\partials\\logo.html",
+              "RelativeToolTip": "layouts\\partials\\logo.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-01T04:15:17.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_index.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.2-Prerequiste\\_index.md",
+              "RelativeDocumentMoniker": "content\\5-Workshop\\5.2-Prerequiste\\_index.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.2-Prerequiste\\_index.md",
+              "RelativeToolTip": "content\\5-Workshop\\5.2-Prerequiste\\_index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:12:19.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_index.vi.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.5-Policy\\_index.vi.md",
+              "RelativeDocumentMoniker": "content\\5-Workshop\\5.5-Policy\\_index.vi.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.5-Policy\\_index.vi.md",
+              "RelativeToolTip": "content\\5-Workshop\\5.5-Policy\\_index.vi.md",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:12:06.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_index.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.5-Policy\\_index.md",
+              "RelativeDocumentMoniker": "content\\5-Workshop\\5.5-Policy\\_index.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.5-Policy\\_index.md",
+              "RelativeToolTip": "content\\5-Workshop\\5.5-Policy\\_index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:12:06.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_index.vi.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.6-Cleanup\\_index.vi.md",
+              "RelativeDocumentMoniker": "content\\5-Workshop\\5.6-Cleanup\\_index.vi.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.6-Cleanup\\_index.vi.md",
+              "RelativeToolTip": "content\\5-Workshop\\5.6-Cleanup\\_index.vi.md",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:11:57.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_index.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.6-Cleanup\\_index.md",
+              "RelativeDocumentMoniker": "content\\5-Workshop\\5.6-Cleanup\\_index.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.6-Cleanup\\_index.md",
+              "RelativeToolTip": "content\\5-Workshop\\5.6-Cleanup\\_index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:11:57.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_index.vi.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.1-Workshop-overview\\_index.vi.md",
+              "RelativeDocumentMoniker": "content\\5-Workshop\\5.1-Workshop-overview\\_index.vi.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.1-Workshop-overview\\_index.vi.md",
+              "RelativeToolTip": "content\\5-Workshop\\5.1-Workshop-overview\\_index.vi.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:11:53.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_index.md",
+              "DocumentMoniker": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.1-Workshop-overview\\_index.md",
+              "RelativeDocumentMoniker": "content\\5-Workshop\\5.1-Workshop-overview\\_index.md",
+              "ToolTip": "D:\\fcj-workshop-template-main\\fcj-workshop-template-main\\content\\5-Workshop\\5.1-Workshop-overview\\_index.md",
+              "RelativeToolTip": "content\\5-Workshop\\5.1-Workshop-overview\\_index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-01T04:11:52.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
