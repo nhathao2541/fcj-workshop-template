@@ -127,7 +127,7 @@ In addition to the overall architecture, the system includes an automated workfl
 
 This workflow is implemented entirely through **Amazon DynamoDB attributes and TTL** together with **AWS Lambda**, without requiring additional orchestration services.
 
-![Note Lifecycle Workflow](/images/5-Workshop/5.2/5.2.2/note-lifecycle-workflow.png)
+![Note Lifecycle Workflow](/images/5-Workshop/5.2/note-lifecycle-workflow.png)
 
 ---
 
