@@ -1,4 +1,3 @@
-```markdown id="m8e4r2"
 ---
 title: "Events Participated"
 date: 2024-01-01
@@ -17,4 +16,3 @@ During my internship, I had the opportunity to participate in the **First Cloud 
 &emsp;**Location:** 26th Floor, Bitexco Financial Tower, No. 02 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City, Vietnam
 
 &emsp;**Role:** Participant
-```
