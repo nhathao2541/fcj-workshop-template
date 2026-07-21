@@ -1,6 +1,6 @@
 baseURL = "https://nhathao2541.github.io/fcj-workshop-template/"
-relativeURLs = false
-canonifyURLs = false
+relativeURLs = true
+canonifyURLs = true
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
