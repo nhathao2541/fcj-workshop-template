@@ -14,7 +14,7 @@ chapter: false
 
 &emsp; **Phone Number:** 0333055502
 
-&emsp; **Email:** NguyenNhatHao220504@gmail.com
+&emsp; **Email:** nhathao220504@gmail.com
 
 &emsp; **University:** Ho Chi Minh City University of Technology.
 
